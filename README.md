@@ -1,3 +1,3 @@
 ### blog-backEnd
 
-## element-plus + vite + vue3 + axios + animate.css
+element-plus + vite + vue3 + axios + animate.css
